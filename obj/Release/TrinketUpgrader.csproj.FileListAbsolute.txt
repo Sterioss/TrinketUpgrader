@@ -1,0 +1,11 @@
+d:\Users\Sterioss\Documents\Visual Studio 2015\Projects\TrinketUpgrader\TrinketUpgrader\bin\Release\TrinketUpgrader.exe.config
+d:\Users\Sterioss\Documents\Visual Studio 2015\Projects\TrinketUpgrader\TrinketUpgrader\bin\Release\TrinketUpgrader.exe
+d:\Users\Sterioss\Documents\Visual Studio 2015\Projects\TrinketUpgrader\TrinketUpgrader\bin\Release\TrinketUpgrader.pdb
+d:\Users\Sterioss\Documents\Visual Studio 2015\Projects\TrinketUpgrader\TrinketUpgrader\bin\Release\EloBuddy.dll
+d:\Users\Sterioss\Documents\Visual Studio 2015\Projects\TrinketUpgrader\TrinketUpgrader\bin\Release\EloBuddy.SDK.dll
+d:\Users\Sterioss\Documents\Visual Studio 2015\Projects\TrinketUpgrader\TrinketUpgrader\bin\Release\SharpDX.dll
+d:\Users\Sterioss\Documents\Visual Studio 2015\Projects\TrinketUpgrader\TrinketUpgrader\bin\Release\SharpDX.Direct3D9.dll
+d:\Users\Sterioss\Documents\Visual Studio 2015\Projects\TrinketUpgrader\TrinketUpgrader\bin\Release\Newtonsoft.Json.dll
+d:\Users\Sterioss\Documents\Visual Studio 2015\Projects\TrinketUpgrader\TrinketUpgrader\obj\Release\TrinketUpgrader.csprojResolveAssemblyReference.cache
+d:\Users\Sterioss\Documents\Visual Studio 2015\Projects\TrinketUpgrader\TrinketUpgrader\obj\Release\TrinketUpgrader.exe
+d:\Users\Sterioss\Documents\Visual Studio 2015\Projects\TrinketUpgrader\TrinketUpgrader\obj\Release\TrinketUpgrader.pdb
