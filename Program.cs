@@ -30,9 +30,9 @@ namespace TrinketUpgrader
         {
             if(ObjectManager.Player.Level >= 9 && Trinkets["UpgradeOn"].Cast<CheckBox>().CurrentValue && ObjectManager.Player.IsInShopRange())
             {
-                if (Trinkets["TrinketType"].Cast<ComboBox>().CurrentValue == 0 && !ObjectManager.Player.HasItem(ItemId.Farsight_Alteration))
+                if (Trinkets["TrinketType"].Cast<ComboBox>().CurrentValue == 1 && !ObjectManager.Player.HasItem(ItemId.Farsight_Alteration))
                     Shop.BuyItem(ItemId.Farsight_Alteration);
-                if (Trinkets["TrinketType"].Cast<ComboBox>().CurrentValue == 1 && !ObjectManager.Player.HasItem(ItemId.Oracle_Alteration))
+                if (Trinkets["TrinketType"].Cast<ComboBox>().CurrentValue == 0 && !ObjectManager.Player.HasItem(ItemId.Oracle_Alteration))
                     Shop.BuyItem(ItemId.Oracle_Alteration);
             }
         }
